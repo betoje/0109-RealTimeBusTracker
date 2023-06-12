@@ -16,6 +16,7 @@ function move() {
   // Use counter to access bus stops in the array busStops
 
   setTimeout(() => {
+    console.log(counter);
     if (counter >= geojson.features.length) return;
 
     let marker = geojson.features[counter]; 
@@ -37,20 +38,23 @@ function move() {
         .setLngLat(marker.geometry.coordinates)
         .setPopup(
             new mapboxgl.Popup({ offset: 25 }) // add popups
-              .setHTML(`<h3>${marker.properties.message}</h3>`)
+              .setHTML(`<h3>${marker.properties.message}-${counter}</h3>`)
         )
         .addTo(map);
 
     if (counter > 1 ) {
         elPrevious = document.getElementById(`div-${counter-1}`);
+        elPrevious.innerText = `${counter-1}`;
+        // elPrevious.textAlign = 'center';
         elPrevious.style.borderStyle = 'solid';
         elPrevious.style.borderColor = 'grey';
         elPrevious.style.backgroundImage = 'none';
+        elPrevious.style.color = 'black';
     }
     
     counter++;
     move();
-  }, 2000);
+  }, 1000);
 }
 
 // move();
