@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js"></script>
+  <link href="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css" rel="stylesheet" />
+  <link href="./styles.css" rel="stylesheet" />
+<title>Document</title>
+</head>
+<body>
+  <div style="padding-left: 50px;">
+    <button style="font-size: 1.5em">
+      New York City: Move with my Cat from Penn State to 911 Memorial
+    </button>
+    <button style="font-size: 1.5em; background-color: yellow" onclick="move()">
+      Go
+    </button>
+  </div>
+  <div class="container" >
+    <div id="map"></div>
+  </div>
+  <script src="./geojson.js"></script>
+  <script src="mapanimation.js"></script>
+</body>
+</html>
+
