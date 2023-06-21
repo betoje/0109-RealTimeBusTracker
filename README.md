@@ -5,7 +5,7 @@
 >>> El marcador recorre estaciones de bus en su trayecto a su destino final
 
 ---
-<img src="BusTracker.jpg" style="width: 350px; height: 300px" >
+<img src="BusTracker.jpg" style="width: 500px; height: 380px" >
 
 ---
 
@@ -31,7 +31,7 @@
   <a href="#sparkles-caracteristicas">Caracteristicas</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requerimientos">Requerimientos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-instrucciones">Instrucciones de uso</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-instrucciones">Instrucciones</a> &#xa0; | &#xa0;
   <a href="#memo-licencia">Licencia</a> &#xa0; | &#xa0;
   <a href="https://github.com/betoje" target="_blank">Author</a>
 </p>
@@ -44,8 +44,8 @@ Proyecto que mueve un marcador en un mapa de la ciudad de Nueva York, por las es
 
 ## :sparkles: Caracteristicas ##
 
-:heavy_check_mark: Mapa de la Ciudad de Nueva York
-:heavy_check_mark: Marcación con una figura que se obtiene de la página web https://placekitten.com
+:heavy_check_mark: Mapa de la Ciudad de Nueva York\
+:heavy_check_mark: Marcación con una figura que se obtiene de la página web https://placekitten.com\
 
 ## :rocket: Tecnologias ##
 
@@ -67,11 +67,11 @@ $ git clone https://github.com/betoje/0109-RealtimeBusTracker
 # Acceda al directorio
 $ cd 0109-RealtimeBusTracker
 
-# Arrastre el archvo index.html a su navegador de elección
+# Arrastre el archivo index.html a su navegador de elección
 ```
 ## :memo: Licencia ##
 
-Este proyecto está bajo la licencia de MIT. Para mayores detalles vea el archivo [LICENSE](LICENSE).
+Este proyecto está bajo la licencia de MIT. Para mayores detalles vea el archivo [LICENSE.md](LICENSE).
 
 Hecho con el :heart: por <a href="https://github.com/betoje" target="_blank">Alberto Jacome</a>&#xa0;
 
