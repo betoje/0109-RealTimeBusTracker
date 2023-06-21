@@ -23,7 +23,8 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/betoje/0109-realtimebustracker?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/betoje/0109-realtimebustracker?color=56BEB8">
+  <!-- <img alt="License" src="https://img.shields.io/github/license/betoje/0109-realtimebustracker?color=56BEB8"> -->
+
 </p>
 
 <p align="center">
@@ -45,7 +46,7 @@ Proyecto que mueve un marcador en un mapa de la ciudad de Nueva York, por las es
 ## :sparkles: Caracteristicas ##
 
 :heavy_check_mark: Mapa de la Ciudad de Nueva York\
-:heavy_check_mark: Marcación con una figura que se obtiene de la página web https://placekitten.com\
+:heavy_check_mark: Marcación con una figura que se obtiene de la página web https://placekitten.com
 
 ## :rocket: Tecnologias ##
 
@@ -71,7 +72,7 @@ $ cd 0109-RealtimeBusTracker
 ```
 ## :memo: Licencia ##
 
-Este proyecto está bajo la licencia de MIT. Para mayores detalles vea el archivo [LICENSE.md](LICENSE).
+Este proyecto está bajo la licencia de MIT. Para mayores detalles vea el archivo [LICENSE](LICENSE).
 
 Hecho con el :heart: por <a href="https://github.com/betoje" target="_blank">Alberto Jacome</a>&#xa0;
 
