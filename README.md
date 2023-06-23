@@ -17,11 +17,11 @@
 <h1 align="center">0109-RealTimeBusTracker</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/betoje/0109-realtimebustracker?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/betoje/0109-RealtimeBusTracker?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/betoje/0109-realtimebustracker?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/betoje/0109-RealtimeBusTracker?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/betoje/0109-realtimebustracker?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/betoje/0109-RealtimeBusTracker?color=56BEB8">
 
   <!-- <img alt="License" src="https://img.shields.io/github/license/betoje/0109-realtimebustracker?color=56BEB8"> -->
 
@@ -74,6 +74,6 @@ $ cd 0109-RealtimeBusTracker
 
 Este proyecto está bajo la licencia de MIT. Para mayores detalles vea el archivo [LICENSE](LICENSE).
 
-Hecho con el :heart: por <a href="https://github.com/betoje" target="_blank">Alberto Jacome</a>&#xa0;
+Hecho con :heart: por <a href="https://github.com/betoje" target="_blank">Alberto Jacome</a>&#xa0;
 
 <a href="#top">Regresar al inicio</a>
