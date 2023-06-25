@@ -30,6 +30,7 @@
 <p align="center">
   <a href="#dart-acerca">Acerca</a> &#xa0; | &#xa0; 
   <a href="#sparkles-caracteristicas">Caracteristicas</a> &#xa0; | &#xa0;
+  <a href="#boom-mejoras">Mejoras</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requerimientos">Requerimientos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-instrucciones">Instrucciones</a> &#xa0; | &#xa0;
@@ -47,6 +48,10 @@ Proyecto que mueve un marcador en un mapa de la ciudad de Nueva York, por las es
 
 :heavy_check_mark: Mapa de la Ciudad de Nueva York\
 :heavy_check_mark: Marcación con una figura que se obtiene de la página web https://placekitten.com
+
+## :boom: Mejoras ##
+
+:ballot_box_with_check: Futuras versiones pueden ser responsivas, adaptando el tamaño del mapa y marcado al tamaño del dispositivo. 
 
 ## :rocket: Tecnologias ##
 
